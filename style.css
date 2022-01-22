@@ -54,10 +54,9 @@ input[type=search]{
 }
 input:focus{
     transition: 2s;
-    width: 250px;
+    width: 200px;
     height: 30px;
-    border: 1px solid #fff;
-    background-color: #79bba0;
+    border-bottom: 1px solid #fff;
 }
 /* .fa-search{
     margin-top: 3px;
